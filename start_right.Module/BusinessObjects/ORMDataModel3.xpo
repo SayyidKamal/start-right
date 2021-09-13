@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="78962934-5e6c-47f6-b0a6-4b080b979fae" namespace="start_right.Module.BusinessObjects.StartRight" dataBaseShemaInfo="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" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" connectionStringName="SKAMSQLEXPRESSStartRight" createdInVersion="20.2.6.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="20.2.6.0" name="StartRight" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <classes>
+    <dataBaseObjectModelHasClasses Id="74485e6a-158a-4ba5-b395-b837776c79d2">
+      <xpObject Id="755f2bc6-5e47-4bbf-8b23-94ea0f2ce031" name="tblStudent" baseClass="XPLiteObject" userFileName="tblStudent" designerFileName="tblStudent.Designer" className="tblStudent" virtualBaseClass="XPLiteObject" virtualName="tblStudent">
+        <fields>
+          <generalXpObjectHasFields Id="dc40df80-4a9f-48af-a322-8ab801c60d90">
+            <field Id="0ac72528-6b24-4594-82b6-b6d0d0ac3a09" name="stdId" key="true" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c3885a31-5e09-489a-9ffd-9532d274d693">
+            <field Id="a4481081-9e05-4dcb-927c-726541058180" name="name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="99cdd409-1ee2-40cf-87c8-098103abfbcc">
+            <field Id="57ef67da-175d-4813-b4e5-d5833a153eca" name="dob" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="108bbc42-b203-4ef5-9b44-81c798d21683">
+            <field Id="c232b761-3a8b-4bb2-a0ff-cebb47f8d1f6" name="gender" virtualColumnType="Gender" logicalType="Gender" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e03f45b6-f417-4a29-b363-c9eb210bad25">
+            <field Id="dd73762f-c517-43a0-9b6a-a6920df01b31" name="className" virtualColumnType="tblClass" logicalType="tblClass" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0e591cd5-efd7-4040-b5c6-95708a99b6bc">
+            <persistentAlias Id="e99aea99-1a52-436d-8b4c-6e5ec13a28e9" name="IdName" virtualColumnType="String" expression="[stdId] + '-' + [name]" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="abace307-766d-4be5-b1dc-c14c42d16762" sourceCollectionName="tblResults" name="tblResultReferencestblStudent" targetFieldName="Student">
+            <xpObjectMoniker Id="322d7840-e7b4-45b4-9e85-87071f5f9855" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="ce11f352-0cb0-4957-911d-1a9e9ab34cd1">
+            <collectionField Id="3247e2a6-6b04-4411-9c7c-c475274fbad6" name="tblResults" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="5879ebec-f4de-43bf-b559-76b08ccdec76">
+      <xpObject Id="fb714f37-6fcb-451c-810d-16545c8aedfa" name="tblClass" baseClass="XPLiteObject" userFileName="tblClass" designerFileName="tblClass.Designer" className="tblClass" virtualBaseClass="XPLiteObject" virtualName="tblClass">
+        <fields>
+          <generalXpObjectHasFields Id="d3e67113-d20c-43c4-9940-eb2019e6fd3e">
+            <field Id="6c2d2847-de5c-4b4b-8991-af4572c8f5a2" name="className" key="true" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="beb3920f-0382-43a2-9ed1-d4fceb65397a">
+            <field Id="089d1589-4bb3-4b79-bcc4-adba1934e331" name="classTeacher" virtualColumnType="Teacher" logicalType="Teacher" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="983daa85-4ffc-40a3-8138-16e597e4d7ef" sourceCollectionName="tblStudents" name="tblStudentReferencestblClass" targetFieldName="className">
+            <xpObjectMoniker Id="755f2bc6-5e47-4bbf-8b23-94ea0f2ce031" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="b6e9c9b7-95e7-4f8e-a0a7-8cb51ccd8912">
+            <collectionField Id="f030b71a-4e8a-4ebb-ab39-98d2009ffb8d" name="tblStudents" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="b66a6370-0ae4-493e-9ef3-56356ec6b7c0">
+      <xpObject Id="55123baa-21a6-4eb1-ac57-ff326bfbf56b" name="tblSubject" baseClass="XPObject" userFileName="tblSubject" designerFileName="tblSubject.Designer" className="tblSubject" virtualName="tblSubject">
+        <fields>
+          <generalXpObjectHasFields Id="50fa43a7-4b7b-4f88-9925-8dc5e645963d">
+            <field Id="435b1def-fcbf-4b27-a6d7-f8f1bbe8145f" name="subjectName" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="5cfba4bd-88b9-4c4d-b599-a278822cd9ad">
+            <field Id="1efdfac9-a004-4913-a278-41006d538ca5" name="subjectTeacher" virtualColumnType="Teacher" logicalType="Teacher" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="87b30830-654c-41fd-bda3-7e68415e9aa1" sourceCollectionName="tblResults" name="tblResultReferencestblSubject" targetFieldName="subjectName">
+            <xpObjectMoniker Id="322d7840-e7b4-45b4-9e85-87071f5f9855" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="56ae1627-df9c-46e7-9321-05af543c1b57">
+            <collectionField Id="ea9f61a3-0e69-4630-81c2-bfd020dc4078" name="tblResults" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="a1187b32-88a0-40e8-bdd2-2cd2e3de104b">
+      <xpObject Id="322d7840-e7b4-45b4-9e85-87071f5f9855" name="tblResult" baseClass="XPLiteObject" userFileName="tblResult" designerFileName="tblResult.Designer" className="tblResult" virtualBaseClass="XPLiteObject" virtualName="tblResult">
+        <fields>
+          <generalXpObjectHasFields Id="f528c506-557a-4e56-ac2b-8dec4ce476a2">
+            <field Id="79554b29-a5a6-4f06-93d4-4203d952b3fb" name="ResultDate" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="ce4f3064-9fee-413d-b155-76ed746a0f70">
+            <field Id="b4b5c198-249a-4701-9150-ba7a400f337a" name="Term" columnType="Int32" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="6071eabd-0b53-46c6-80cc-33c79feffb88">
+            <field Id="e3437473-acd3-4a7c-8514-770f55677ea2" name="subjectName" virtualColumnType="tblSubject" logicalType="tblSubject" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a6607139-923e-4528-81c9-1300826d1a5b">
+            <field Id="0708d7c0-8743-4553-8158-dec35b9c4400" name="midTerm" columnType="Double" virtualColumnType="Double" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="91cd4b42-4584-47a9-9449-acf2b13f6ab0">
+            <field Id="213408e2-9dad-4c7a-a6b6-e502dfb09c3f" name="exam" columnType="Double" virtualColumnType="Double" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c265ee0d-23c8-4f70-a030-34703368c066">
+            <persistentAlias Id="ee910c5e-39ab-4eb3-8080-297823349d75" name="total" columnType="Double" virtualColumnType="Double" expression="[midTerm] + [exam]" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="b0786eb6-e646-4b0e-a291-843da5783afd">
+            <persistentAlias Id="79cdb84a-6d8e-4f89-aef9-aa6ef83b55f3" name="grade" virtualColumnType="String" expression="Iif([total] &gt;= 90, 'A', [total] &gt;= 80, 'B', [total] &gt;= 70, 'C', [total] &gt;= 60, 'D', [total] &gt;= 50, 'E', 'F')" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9e70423c-94da-435a-aef5-1e1477ddc6e5">
+            <persistentAlias Id="d42934df-8e34-42fc-a8be-48a11df57316" name="comment" virtualColumnType="String" expression="Iif([total] &gt;= 90, 'Excellent', [total] &gt;= 80, 'Very Good', [total] &gt;= 70, 'Good', [total] &gt;= 60, 'Satisfactory', [total] &gt;= 50, 'Fair', 'Weak')" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="1f4fac7a-a9d1-4346-9d9a-7d662288fdd3">
+            <field Id="2e09e3fc-75bd-4000-9d74-eb0e23f02314" name="Student" virtualColumnType="tblStudent" logicalType="tblStudent" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c459a02b-9f3c-43f5-ba8b-3aa9e149d42e">
+            <field Id="4efc9f70-8871-439b-893a-8c82cf88ed84" name="id" columnType="Int32" key="true" isIdentity="true" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="d1dd2fc3-2b0e-4cb1-a26b-2e6fa1a5a6f6">
+      <xpObject Id="d542920c-1548-47ad-8b1e-c8b6122447a9" name="Teacher" baseClass="XPLiteObject" userFileName="Teacher" designerFileName="Teacher.Designer" className="Teacher" virtualBaseClass="XPLiteObject" virtualName="Teacher">
+        <fields>
+          <generalXpObjectHasFields Id="c9cb26f9-6d33-4479-ace0-f4c76a0ddd45">
+            <field Id="c38abb42-c539-4a4e-ac4a-ffe8eb3ab7a7" name="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9dc5c6a5-b1f1-4767-a302-9273022f4675">
+            <field Id="06c5bbd9-ef61-404b-9bb7-7151283a08a4" name="Contact" key="true" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="42dce059-a586-49a3-a4ac-a13b294bc573">
+            <field Id="75b4ad82-d777-4f5a-9b2e-7c2ce976f468" name="Email" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="35ab9f64-fdfb-4e29-b7c6-bd054d939cb3">
+            <field Id="b208cf98-2791-4df8-aa28-8e188c5246ce" name="Salary" columnType="Decimal" virtualColumnType="Decimal" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="a5d5b9e3-1095-46d4-869a-a2f9caa21c5f" sourceCollectionName="tblClasses" name="tblClassReferencesTeacher" targetFieldName="classTeacher">
+            <xpObjectMoniker Id="fb714f37-6fcb-451c-810d-16545c8aedfa" />
+          </simpleAssociation>
+          <simpleAssociation Id="e75eb1d7-e1ce-4d92-b01a-519cf07021c7" sourceCollectionName="tblSubjects" name="tblSubjectReferencesTeacher" targetFieldName="subjectTeacher">
+            <xpObjectMoniker Id="55123baa-21a6-4eb1-ac57-ff326bfbf56b" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="44dff771-8823-4999-a776-390c72ae6192">
+            <collectionField Id="580a3b0e-fb2f-44c6-9201-6748ca20c71f" name="tblClasses" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="5ee48c32-fc4c-45b7-9719-267d9877315c">
+            <collectionField Id="247bc6f3-92d8-4331-9fb0-ff54b7fbb051" name="tblSubjects" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="414d774f-34c9-4e17-8ebd-180a974a6f46">
+      <xpObject Id="92e3f92d-79a0-45af-a5f0-a24a7a773788" name="Gender" baseClass="XPObject" userFileName="Gender" designerFileName="Gender.Designer" className="Gender" virtualName="Gender">
+        <fields>
+          <generalXpObjectHasFields Id="89a1c260-20ef-4fb8-b253-7c57c28ad7e2">
+            <field Id="100fbe8a-6af8-4ffc-b3a3-f7568b2bb17f" name="gender" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="760a8708-c86e-4d27-a0dd-e1020d8788f0" sourceCollectionName="tblStudents" name="tblStudentReferencesGender" targetFieldName="gender">
+            <xpObjectMoniker Id="755f2bc6-5e47-4bbf-8b23-94ea0f2ce031" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="9c6f9881-aee4-44cc-9bb2-108284d0a6a9">
+            <collectionField Id="321c8963-0128-4d2a-b480-90d8940f7b47" name="tblStudents" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>
